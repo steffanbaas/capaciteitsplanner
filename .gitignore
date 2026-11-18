@@ -1,0 +1,5 @@
+# Echte databases bevatten persoonsgegevens: nooit committen.
+*.xlsx
+!Capaciteitsplanner_template.xlsx
+~$*
+.DS_Store
